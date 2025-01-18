@@ -27,7 +27,7 @@
 - **📧 Email: kitayev.n@gmail.com**  
 - **📞 Телефон: +7777 1995 077**
 - **🌐 Веб-сайт: https://kitayev-nurakhmet.github.io/MyPortfolio/**
-- **📸 Instagram: kitayev.nura**
+- **📸 Instagram: https://www.instagram.com/kitayev.nura**
 
 ## 🛠 Установка и запуск
 
