@@ -26,5 +26,5 @@
 
 1. Склонируйте репозиторий:  
    ```bash
-   git clone https://github.com/Yrgaq/UnderfloorHeating.git
-![Главная страница](https://github.com/Yrgaq/UnderfloorHeating/blob/main/img/UnderfloorHeating.png)
+   git clone https://github.com/Kitayev-Nurakhmet/UnderfloorHeating.git
+![Главная страница](https://github.com/Kitayev-Nurakhmet/UnderfloorHeating/blob/main/img/UnderfloorHeating.png)
