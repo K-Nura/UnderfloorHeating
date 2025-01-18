@@ -28,4 +28,4 @@
    ```bash
    git clone https://github.com/Yrgaq/UnderfloorHeating.git
 ![Главная страница](https://github.com/Yrgaq/UnderfloorHeating/blob/main/img/UnderfloorHeating.png)
-<img src="images/UnderfloorHeating.png" alt="Главная страница" width="600" height="600">
+<img src="img/UnderfloorHeating.pn" alt="Главная страница" width="600" height="auto">
