@@ -27,4 +27,7 @@
 1. Склонируйте репозиторий:  
    ```bash
    git clone https://github.com/Kitayev-Nurakhmet/UnderfloorHeating.git
+2. Откройте файл index.html в вашем браузере для просмотра сайта.
+
+## 🖼️ Макет сайта
 ![Главная страница](https://github.com/Kitayev-Nurakhmet/UnderfloorHeating/blob/main/img/UnderfloorHeating.png)
